@@ -6,7 +6,7 @@ public class BlogConst
 {
     public const string BlogName = "Ater Blog";
     public const string BlogDescription = "My Blog - Powered by Ater Blog";
-    public const string SupportLink = "https://blog.nihaozr.icu/";
+    public const string SupportLink = "https://blog-cu.sbcnsb.cn";
     public const string TempPath = "temp";
     public const string ContentPath = "Content";
     public const string DataPath = "data";
