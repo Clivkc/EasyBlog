@@ -48,7 +48,7 @@
     <div class="container mx-auto text-center">
         <p class="text-neutral-600 dark:text-neutral-300">
         @{Name}
-        <a class="text-blue-600" target="_blank" href="https://blog-cu.sbcnsb.cn">Powered by Ater Blog</a>
+        <!--a class="text-blue-600" target="_blank" href="https://blog-cu.sbcnsb.cn">Powered by Ater Blog</a--> <a href="https://icp.gov.moe/?keyword=20242045" target="_blank">萌ICP备20242045号</a>
         </p>
     </div>
     </div>
