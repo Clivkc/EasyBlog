@@ -11,6 +11,12 @@
     <link rel="icon" type="image/png" href="@{BaseUrl}favicon.ico" />
     <script>const baseUrl = '@{BaseUrl}';</script>
     <script src="@{BaseUrl}js/index.js"></script>
+    <style>
+        img {
+        display: block;
+        margin: 0 auto;
+        }
+    </style>
 </head>
 
 <body class="dark:bg-neutral-900">
