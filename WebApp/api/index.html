@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>使用PHP的随机重定向</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="5;URL=https://www.example.com">
+  <title>重定向网页</title>
 </head>
 <body>
-  <?php
-    $arr = file('img.txt');
-    $n = count($arr) - 1;
-    $x = rand(0, $n);
-    header("Location: " . trim($arr[$x]));
-    exit();
-  ?>
+  <h1>正在重定向...</h1>
+  <p>如果页面没有自动跳转，请点击 <a href="https://www.example.com">这里</a>。</p>
 </body>
 </html>
