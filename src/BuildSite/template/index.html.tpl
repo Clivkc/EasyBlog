@@ -57,6 +57,7 @@
         <!--a class="text-blue-600" target="_blank" href="https://blog-cu.sbcnsb.cn">Powered by Ater Blog</a-->
         <a href="https://icp.gov.moe/?keyword=20242045" target="_blank">萌ICP备20242045号</a>
         <a href="https://ipv6test.wcode.net/?q=https%3A%2F%2Fblog.free1.asia%2F&ipv6-only=1" target="_blank"><img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=blog.free1.asia" alt="" style="max-width: 100%; height: 24px;"/></a>
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=410 height=86 src="//music.163.com/outchain/player?type=2&id=2124731026&auto=1&height=66"></iframe>
         </p>
     </div>
     </div>
