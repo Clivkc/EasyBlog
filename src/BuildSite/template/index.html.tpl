@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" href="@{BaseUrl}favicon.ico" />
     <script>const baseUrl = '@{BaseUrl}';</script>
     <script src="@{BaseUrl}js/index.js"></script>
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=410 height=86 src="//music.163.com/outchain/player?type=2&id=2124731026&auto=1&height=66"></iframe>
+    <!--iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=410 height=86 src="//music.163.com/outchain/player?type=2&id=2124731026&auto=1&height=66"></iframe-->
     <style>
         img {
         display: block;
