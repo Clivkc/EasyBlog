@@ -1,29 +1,8 @@
-<!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <script>
-        window.onload = function() {
-            var imgFolder = "img/"; // 替换为你的图片文件夹路径
-            var imgArray = [];
-            var allImages = document.getElementsByClassName('randomImage');
-
-            for (var i = 0; i < allImages.length; i++) {
-                imgArray.push(allImages[i].src);
-            }
-
-            var randomIndex = Math.floor(Math.random() * imgArray.length);
-            var randomImage = imgArray[randomIndex];
-            document.getElementById("displayImage").src = randomImage;
-        };
-    </script>
-</head>
-<body>
-    <!--img class="randomImage" src="img/image1.jpg" alt="">
-    <img class="randomImage" src="img/image2.jpg" alt="">
-    <img class="randomImage" src="img/image3.jpg" alt=""-->
-    <!-- 添加更多的图片 -->
-
-    <img id="displayImage" src="" alt="Random image">
-</body>
+    <?php
+    $arr=file('img.txt');
+    $n=count($arr)-1;
+    for ($i=1;$i<=1;$i++){
+    $x=rand(0,$n);header("Location:".$arr[$x],"\n");}
+    ?>
 </html>
