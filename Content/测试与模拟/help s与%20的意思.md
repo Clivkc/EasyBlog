@@ -1,4 +1,4 @@
 #### s 为何目录
-- 例如https://blog-cu.sbcnsb.cn/blogs/s/22x.zip
+- 例如https://blog.free1.asia/blogs/s/22x.zip
 - %20是一个特殊符号再浏览器网址中属于空格的意思因为网址实际上是无法识别所以才有了%20
 - 正如我说本站提供免费s资源存储服务可配合CU站的接口或app来实现特殊效果
