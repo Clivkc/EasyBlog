@@ -56,7 +56,7 @@
         @{Name}
         <!--a class="text-blue-600" target="_blank" href="https://blog-cu.sbcnsb.cn">Powered by Ater Blog</a-->
         <a href="https://icp.gov.moe/?keyword=20242045" target="_blank">萌ICP备20242045号</a>
-        <a href="https://ipv6test.wcode.net/?q=https%3A%2F%2Fblog-cu.sbcnsb.cn%2F" target="_blank"><img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=https%3A%2F%2Fblog-cu.sbcnsb.cn%2F" alt="" style="max-width: 100%; height: 24px;"/></a>
+        <a href="https://ipv6test.wcode.net/?q=https%3A%2F%2Fblog.free1.asia%2F&ipv6-only=1" target="_blank"><img src="https://ipv6test.wcode.net/badges/ipv6.svg?host=blog.free1.asia" alt="" style="max-width: 100%; height: 24px;"/></a>
         </p>
     </div>
     </div>
