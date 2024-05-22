@@ -9,6 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name='description' content='CU小站，分享技术游戏'>
+    <meta http-equiv='content-language' content='zh-cn'>
     <title>@{Name}</title>
     <meta name="description" content="@{Description}" />
     <base href="/" />
