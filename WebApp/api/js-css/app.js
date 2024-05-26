@@ -9,7 +9,7 @@ var APP = (function(){
             request = {
               "url": urlEl.value
             };
-        fn.getJson('api/set.php', true, JSON.stringify(request), function(res) {
+        fn.getJson('https://1xz.icu/api/set.php', true, JSON.stringify(request), function(res) {
            if(res.success == 'true') {
             urlEl.className = 'focus';
             urlEl.value = res.content.url;
